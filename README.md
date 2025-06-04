@@ -1,5 +1,5 @@
 <!-- Header Image -->
-[![WHAT](![Alt text](git.webp)](https://github.com/tasticp)
+[![WHAT](git.webp)](https://github.com/tasticp)
 
 <!-- Spotify Recently Played -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31x7f4yokrg4l42ulljknm7war3y)
