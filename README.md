@@ -1,7 +1,21 @@
-[![MasterHead]((https://media.discordapp.net/attachments/1379694314988503040/1379694341005774929/premium_photo-1748882648048-1103b6963a3d.png?ex=68412bfc&is=683fda7c&hm=f52ce31c3315c5727f06234e3421e5baf066d1b167962c3d291608dfdc70ef02&=&format=webp&quality=lossless&width=1094&height=725))]((https://github.com/tasticp))
+<!-- Header Image -->
+[![MasterHead](https://your-image-link.com/header.png)](https://github.com/your-username)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tasticp_)
+<!-- Spotify Recently Played -->
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username)
 
-[![MasterHead](your image link)](https://github.com/tasticp)
+<!-- GitHub Stats Card -->
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+```
 
-![tasticp's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasticp&theme=ambient_gradient&show_icons=true)
+**How it works:**
+- The first line displays a header image that links to your GitHub profile.
+- The second line shows your recently played Spotify tracks (replace `your_spotify_username` with your actual Spotify username).
+- The third line displays your GitHub stats card (replace `your-username` with your actual GitHub username and customize the theme if you wish)[1][2][5].
+
+**Tips:**
+- Make sure your image links are publicly accessible.
+- You can edit your README.md directly from your GitHub profile repository[2].
+- For more customization, check the documentation of the GitHub Readme Stats project[1].
+
+This structure is commonly used in many popular GitHub profile READMEs and is a great way to showcase your activity and stats[5].
