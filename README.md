@@ -1,11 +1,11 @@
 <!-- Header Image -->
-[![WHAT](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fprogramming%2Fcomments%2F1gzo1dt%2Fgithub_actions_breaking_changes_on_december_5_2024%2F&psig=AOvVaw0UYbvUWR2Vi0DeUHpfPkyj&ust=1749102561488000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC3wIaJ140DFQAAAAAdAAAAABAE)](https://github.com/tasticp)
+[![WHAT](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://github.com/tasticp)
 
 <!-- Spotify Recently Played -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31x7f4yokrg4l42ulljknm7war3y)
 
 <!-- GitHub Stats Card -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tasticp&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 **How it works:**
