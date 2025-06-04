@@ -1,5 +1,5 @@
 <!-- Header Image -->
-[![MasterHead](https://your-image-link.com/header.png)](https://github.com/your-username)
+[![WHAT](https://your-image-link.com/header.png)](https://github.com/tasticp)
 
 <!-- Spotify Recently Played -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username)
